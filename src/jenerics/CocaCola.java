@@ -5,4 +5,5 @@ public class CocaCola extends Liquid{
     /**
      * test
      */
+    public void initiateConflict(){};
 }
