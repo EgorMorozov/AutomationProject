@@ -6,4 +6,7 @@ public class CocaCola extends Liquid{
      * test
      */
     public void initiateConflict(){};
+    public void nothingTodo(){
+        System.out.println("Conflict");
+    }
 }
